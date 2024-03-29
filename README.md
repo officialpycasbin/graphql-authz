@@ -1,15 +1,14 @@
 # graphql-authz
 
-
-GraphQL-Authz is a Python3.6+ port of [GraphQL-Authz](https://github.com/node-casbin/graphql-authz), the
-[Casbin](https://casbin.org/) authorization middleware implementation in [Node.js](https://nodejs.org/en/).
-
-[![build](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml/badge.svg)](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml)
+[![Build Status](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml/badge.svg)](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/pycasbin/graphql-authz/badge.svg)](https://coveralls.io/github/pycasbin/graphql-authz)
 [![Version](https://img.shields.io/pypi/v/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
+[![Pyversions](https://img.shields.io/pypi/pyversions/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
 [![Download](https://img.shields.io/pypi/dm/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
+
+GraphQL-Authz is a Python port of [GraphQL-Authz](https://github.com/node-casbin/graphql-authz), the [Casbin](https://casbin.org/) authorization middleware implementation in [Node.js](https://nodejs.org/en/).
 
 This package should be used with [GraphQL-core 3](https://github.com/graphql-python/graphql-core), providing the
 capability to limit access to each GraphQL resource with the authorization middleware.
