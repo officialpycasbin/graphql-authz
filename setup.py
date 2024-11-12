@@ -20,7 +20,7 @@ setup(
     description="graphql-authz is an casbin authorization middleware for GraphQL",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pycasbin/graphql-authz",
+    url="https://github.com/officialpycasbin/graphql-authz",
     keywords=[
         "casbin",
         "GraphQL",

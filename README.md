@@ -1,7 +1,7 @@
 # graphql-authz
 
-[![Build Status](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml/badge.svg)](https://github.com/pycasbin/graphql-authz/actions/workflows/build.yml)
-[![Coverage Status](https://coveralls.io/repos/github/pycasbin/graphql-authz/badge.svg)](https://coveralls.io/github/pycasbin/graphql-authz)
+[![Build Status](https://github.com/officialpycasbin/graphql-authz/actions/workflows/build.yml/badge.svg)](https://github.com/officialpycasbin/graphql-authz/actions/workflows/build.yml)
+[![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/graphql-authz/badge.svg)](https://coveralls.io/github/officialpycasbin/graphql-authz)
 [![Version](https://img.shields.io/pypi/v/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casbin-graphql-authz.svg)](https://pypi.org/project/casbin-graphql-authz/)
