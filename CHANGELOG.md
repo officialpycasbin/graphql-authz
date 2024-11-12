@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.1.0...v1.2.0) (2024-11-12)
+
+
+### Features
+
+* update path ([d3919a5](https://github.com/officialpycasbin/graphql-authz/commit/d3919a5ae6a1ae6322d7455da1591896cd4348e5))
+
 # [1.1.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.0.0...v1.1.0) (2024-03-29)
 
 
