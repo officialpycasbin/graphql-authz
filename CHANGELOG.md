@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.2.0...v1.3.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([7fd44c2](https://github.com/officialpycasbin/graphql-authz/commit/7fd44c25ff0b705ca7c69b2a14163e9c4e5be284))
+
 # [1.2.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.1.0...v1.2.0) (2024-11-12)
 
 
