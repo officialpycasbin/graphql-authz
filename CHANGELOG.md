@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.3.0...v1.4.0) (2025-08-17)
+
+
+### Features
+
+* upgrade actions and python to fix the error ([#2](https://github.com/officialpycasbin/graphql-authz/issues/2)) ([fbcdc0d](https://github.com/officialpycasbin/graphql-authz/commit/fbcdc0d2bc7d9bf5fc37358e2b10ed096cf549de))
+
 # [1.3.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.2.0...v1.3.0) (2025-08-15)
 
 
