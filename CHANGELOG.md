@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.4.0...v1.5.0) (2025-08-20)
+
+
+### Features
+
+* fix README badges ([#3](https://github.com/officialpycasbin/graphql-authz/issues/3)) ([b7ed702](https://github.com/officialpycasbin/graphql-authz/commit/b7ed702d7ebab5c08fae0aa710175d95ec854599))
+
 # [1.4.0](https://github.com/officialpycasbin/graphql-authz/compare/v1.3.0...v1.4.0) (2025-08-17)
 
 
